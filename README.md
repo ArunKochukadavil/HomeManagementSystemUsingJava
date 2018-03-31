@@ -1,5 +1,5 @@
 # HomeManagementSystemUsingJava
-Project done by:
+Project done by :
 1. Arun Kochukadavil
 2. Dhruvil Mehta
 
